@@ -17,3 +17,5 @@ make install
 make lang=tr dl_lm
 
 pip install cc_net[getpy]
+
+cd ..
